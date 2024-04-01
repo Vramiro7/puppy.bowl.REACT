@@ -1,0 +1,14 @@
+body{
+	background-color: darkslategray;
+}
+
+#cardTable{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+#pupImage{
+	max-width: 100px;
+}
+
